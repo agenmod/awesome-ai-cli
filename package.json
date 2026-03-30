@@ -1,0 +1,23 @@
+{
+  "name": "awesome-ai-cli",
+  "version": "1.0.0",
+  "description": "全球最全 AI 原生 CLI 工具合集 | The most comprehensive collection of AI-friendly CLI tools",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "cli",
+    "ai",
+    "agent",
+    "mcp",
+    "awesome",
+    "tools",
+    "command-line"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
