@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/tools-45-blue" alt="Tools">
+  <img src="https://img.shields.io/badge/tools-46-blue" alt="Tools">
   <img src="https://img.shields.io/badge/AI%20scored-5%20dimensions-blueviolet" alt="AI Scored">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
@@ -56,7 +56,7 @@
 
 ## 收录标准
 
-我们扫描了 npm、brew、pip 上数百个 CLI 工具，最终收录 **45** 个符合 AI 友好标准的。
+我们扫描了 npm、brew、pip 上数百个 CLI 工具，最终收录 **46** 个符合 AI 友好标准的。
 
 **至少满足以下 2 条即可入选：**
 
@@ -87,7 +87,7 @@
 | [🎬 多媒体处理](#-多媒体处理) | 3 | [💳 支付 / 金融](#-支付--金融) | 1 |
 | [🤖 AI / ML 工具](#-ai--ml-工具) | 8 | [🎵 生活娱乐](#-生活娱乐) | 1 |
 | [💻 开发运维](#-开发运维) | 11 | [🔍 数据 / 搜索](#-数据--搜索) | 2 |
-| [🧩 Agent 基础设施](#-agent-基础设施) | 6 | [🛒 电商 / 零售](#-电商--零售) | 1 |
+| [🧩 Agent 基础设施](#-agent-基础设施) | 7 | [🛒 电商 / 零售](#-电商--零售) | 1 |
 
 **[📊 AI 兼容度评分](#-ai-兼容度评分)** · **[🔌 跨 AI 平台使用](#-跨-ai-平台使用)** · **[🛡️ 安全须知](#-安全须知)** · **[🌐 生态工具](#-生态工具)** · **[🚀 一键安装](#-一键安装脚本)**
 
@@ -208,6 +208,7 @@ AI Agent 的底层工具链——MCP 管理、CLI 编排、跨平台统一调度
 | **[Smithery CLI](https://github.com/smithery-ai/cli)** | MCP + Skills 注册中心管理，搜索/安装/发布 | `npx @anthropic-ai/smithery` | ⭐⭐⭐⭐ | ✅ | ✅ |
 | **[mcpx](https://github.com/lydakis/mcpx)** | 把 MCP 服务器变成可组合 CLI，管道 + JSON | `go install github.com/lydakis/mcpx@latest` | ⭐⭐⭐⭐ | ✅ | ❌ |
 | **[AgentX](https://github.com/agentsdance/agentx)** | 跨 Agent 统一管理 MCP/Skills（Claude/Cursor/Gemini/Codex） | `go install github.com/agentsdance/agentx@latest` | ⭐⭐⭐⭐ | ✅ | ✅ |
+| **[agenttrace](https://github.com/luoyuctl/agenttrace)** | 本地 AI Coding Agent 会话观测 CLI/TUI，输出成本、token、延迟、失败和健康度报告 | `go install github.com/luoyuctl/agenttrace/cmd/agenttrace@latest` | ⭐⭐⭐⭐ | ❌ | ✅ |
 | **[agent-browser](https://github.com/vercel-labs/agent-browser)** | Vercel 出品 AI Agent 无头浏览器（25k stars），Rust 构建 | `npx agent-browser` | ⭐⭐⭐⭐ | ❌ | ❌ |
 
 **[`^ 回到目录 ^`](#目录)**

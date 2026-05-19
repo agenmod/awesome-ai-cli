@@ -943,6 +943,28 @@
       "tags": ["open-source", "cross-platform", "mcp", "skills"]
     },
     {
+      "name": "agenttrace",
+      "id": "agenttrace",
+      "category": "agent-infra",
+      "description": "本地 AI Coding Agent 会话观测 CLI/TUI，解析 Claude Code、Codex CLI、Gemini CLI、Aider、Cursor 等日志，输出成本、token、延迟、失败和健康度报告",
+      "install": "go install github.com/luoyuctl/agenttrace/cmd/agenttrace@latest",
+      "repo": "https://github.com/luoyuctl/agenttrace",
+      "website": "https://luoyuctl.github.io/agenttrace/",
+      "hasSkills": true,
+      "hasMCP": false,
+      "hasJSON": true,
+      "hasNonInteractive": true,
+      "hasDryRun": false,
+      "score": {
+        "aiDesign": 5,
+        "structuredOutput": 5,
+        "selfDiscovery": 4,
+        "preview": 3,
+        "contextSize": 4
+      },
+      "tags": ["open-source", "observability", "coding-agents", "tui"]
+    },
+    {
       "name": "agent-browser",
       "id": "agent-browser",
       "category": "agent-infra",

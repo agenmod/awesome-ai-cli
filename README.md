@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/tools-45-blue" alt="Tools">
+  <img src="https://img.shields.io/badge/tools-46-blue" alt="Tools">
   <img src="https://img.shields.io/badge/AI%20scored-5%20dimensions-blueviolet" alt="AI Scored">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
@@ -56,7 +56,7 @@ A single CLI tool bundles execution, protocol (MCP), and documentation (Skills) 
 
 ## Inclusion Criteria
 
-We scanned hundreds of CLI tools across npm, brew, and pip — **45** made the cut.
+We scanned hundreds of CLI tools across npm, brew, and pip — **46** made the cut.
 
 **A tool must meet at least 2 of these criteria:**
 
@@ -87,7 +87,7 @@ We scanned hundreds of CLI tools across npm, brew, and pip — **45** made the c
 | [🎬 Media Processing](#-media-processing) | 3 | [💳 Payments](#-payments) | 1 |
 | [🤖 AI / ML Tools](#-ai--ml-tools) | 8 | [🎵 Lifestyle](#-lifestyle) | 1 |
 | [💻 Development](#-development) | 11 | [🔍 Data / Search](#-data--search) | 2 |
-| [🧩 Agent Infrastructure](#-agent-infrastructure) | 6 | [🛒 E-commerce](#-e-commerce) | 1 |
+| [🧩 Agent Infrastructure](#-agent-infrastructure) | 7 | [🛒 E-commerce](#-e-commerce) | 1 |
 
 **[📊 Scoring](#-ai-compatibility-scoring)** · **[🔌 Cross-Platform](#-cross-platform-usage)** · **[🛡️ Security](#-security-notice)** · **[🌐 Ecosystem](#-ecosystem)** · **[🚀 Install Script](#-install-script)**
 
@@ -208,6 +208,7 @@ The AI Agent toolchain layer — MCP management, CLI orchestration, cross-platfo
 | **[Smithery CLI](https://github.com/smithery-ai/cli)** | MCP + Skills registry management — search, install, publish | `npx @anthropic-ai/smithery` | ⭐⭐⭐⭐ | ✅ | ✅ |
 | **[mcpx](https://github.com/lydakis/mcpx)** | Turn MCP servers into composable CLIs with pipes + JSON | `go install github.com/lydakis/mcpx@latest` | ⭐⭐⭐⭐ | ✅ | ❌ |
 | **[AgentX](https://github.com/agentsdance/agentx)** | Unified MCP/Skills manager across Claude/Cursor/Gemini/Codex | `go install github.com/agentsdance/agentx@latest` | ⭐⭐⭐⭐ | ✅ | ✅ |
+| **[agenttrace](https://github.com/luoyuctl/agenttrace)** | Local AI coding agent session observability CLI/TUI with cost, token, latency, failure, and health reports | `go install github.com/luoyuctl/agenttrace/cmd/agenttrace@latest` | ⭐⭐⭐⭐ | ❌ | ✅ |
 | **[agent-browser](https://github.com/vercel-labs/agent-browser)** | Vercel's headless browser for AI Agents (25k stars), built in Rust | `npx agent-browser` | ⭐⭐⭐⭐ | ❌ | ❌ |
 
 **[`^ back to top ^`](#table-of-contents)**
