@@ -1051,6 +1051,28 @@
         "contextSize": 4
       },
       "tags": ["open-source", "agent-runner", "composable"]
+    },
+    {
+      "name": "agenttrace",
+      "id": "agenttrace",
+      "category": "agent-infra",
+      "description": "本地优先的 AI 编码 Agent 会话观测 TUI，读取 Claude Code / Codex CLI / Gemini CLI / Qwen Code / Aider / Cursor / OpenCode 等日志，输出成本、Token、耗时和慢任务诊断",
+      "install": "brew install luoyuctl/tap/agenttrace",
+      "repo": "https://github.com/luoyuctl/agenttrace",
+      "website": "https://luoyuctl.github.io/agenttrace/",
+      "hasSkills": true,
+      "hasMCP": false,
+      "hasJSON": true,
+      "hasNonInteractive": true,
+      "hasDryRun": false,
+      "score": {
+        "aiDesign": 4,
+        "structuredOutput": 5,
+        "selfDiscovery": 4,
+        "preview": 4,
+        "contextSize": 4
+      },
+      "tags": ["open-source", "observability", "coding-agent", "tui", "reports"]
     }
   ]
 }
