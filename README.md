@@ -177,6 +177,7 @@ AI manages cloud infrastructure directly.
 | Tool | Description | Install | AI Score | MCP | Skills |
 |------|-------------|---------|:--------:|:---:|:------:|
 | **[Stripe CLI](https://docs.stripe.com/stripe-cli)** | Payments / Webhooks / testing | `brew install stripe/stripe-cli/stripe` | ⭐⭐⭐⭐ | ❌ | ✅ |
+| **[TWZRD Agent Intel](https://intel.twzrd.xyz)** | Trust scoring & signed receipts for Solana AI agent wallets, verify identity before x402 micropayments | `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` | ⭐⭐⭐⭐ | ✅ | ❌ |
 
 **[`^ back to top ^`](#table-of-contents)**
 
