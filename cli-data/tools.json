@@ -82,7 +82,12 @@
         "preview": 5,
         "contextSize": 4
       },
-      "tags": ["official", "enterprise", "mcp", "skills"]
+      "tags": [
+        "official",
+        "enterprise",
+        "mcp",
+        "skills"
+      ]
     },
     {
       "name": "Google Workspace CLI",
@@ -104,7 +109,13 @@
         "preview": 5,
         "contextSize": 5
       },
-      "tags": ["official", "enterprise", "mcp", "skills", "field-masks"]
+      "tags": [
+        "official",
+        "enterprise",
+        "mcp",
+        "skills",
+        "field-masks"
+      ]
     },
     {
       "name": "Stripe CLI",
@@ -126,7 +137,11 @@
         "preview": 4,
         "contextSize": 3
       },
-      "tags": ["official", "payment", "webhook"]
+      "tags": [
+        "official",
+        "payment",
+        "webhook"
+      ]
     },
     {
       "name": "ElevenLabs CLI",
@@ -148,7 +163,11 @@
         "preview": 2,
         "contextSize": 4
       },
-      "tags": ["official", "voice", "ai"]
+      "tags": [
+        "official",
+        "voice",
+        "ai"
+      ]
     },
     {
       "name": "网易云音乐 CLI",
@@ -170,7 +189,10 @@
         "preview": 1,
         "contextSize": 3
       },
-      "tags": ["music", "chinese"]
+      "tags": [
+        "music",
+        "chinese"
+      ]
     },
     {
       "name": "ffmpeg",
@@ -192,7 +214,12 @@
         "preview": 2,
         "contextSize": 2
       },
-      "tags": ["classic", "video", "audio", "open-source"]
+      "tags": [
+        "classic",
+        "video",
+        "audio",
+        "open-source"
+      ]
     },
     {
       "name": "yt-dlp",
@@ -214,7 +241,12 @@
         "preview": 4,
         "contextSize": 3
       },
-      "tags": ["classic", "video", "download", "open-source"]
+      "tags": [
+        "classic",
+        "video",
+        "download",
+        "open-source"
+      ]
     },
     {
       "name": "ImageMagick",
@@ -236,7 +268,11 @@
         "preview": 1,
         "contextSize": 2
       },
-      "tags": ["classic", "image", "open-source"]
+      "tags": [
+        "classic",
+        "image",
+        "open-source"
+      ]
     },
     {
       "name": "OpenAI CLI",
@@ -258,7 +294,11 @@
         "preview": 2,
         "contextSize": 3
       },
-      "tags": ["official", "ai", "llm"]
+      "tags": [
+        "official",
+        "ai",
+        "llm"
+      ]
     },
     {
       "name": "Anthropic Claude CLI",
@@ -280,7 +320,12 @@
         "preview": 3,
         "contextSize": 4
       },
-      "tags": ["official", "ai", "coding", "mcp"]
+      "tags": [
+        "official",
+        "ai",
+        "coding",
+        "mcp"
+      ]
     },
     {
       "name": "jq",
@@ -302,7 +347,12 @@
         "preview": 2,
         "contextSize": 2
       },
-      "tags": ["classic", "json", "essential", "open-source"]
+      "tags": [
+        "classic",
+        "json",
+        "essential",
+        "open-source"
+      ]
     },
     {
       "name": "curl",
@@ -324,7 +374,12 @@
         "preview": 3,
         "contextSize": 2
       },
-      "tags": ["classic", "essential", "http", "open-source"]
+      "tags": [
+        "classic",
+        "essential",
+        "http",
+        "open-source"
+      ]
     },
     {
       "name": "GitHub CLI",
@@ -346,7 +401,11 @@
         "preview": 3,
         "contextSize": 3
       },
-      "tags": ["official", "git", "essential"]
+      "tags": [
+        "official",
+        "git",
+        "essential"
+      ]
     },
     {
       "name": "Vercel CLI",
@@ -368,7 +427,11 @@
         "preview": 4,
         "contextSize": 3
       },
-      "tags": ["official", "deploy", "frontend"]
+      "tags": [
+        "official",
+        "deploy",
+        "frontend"
+      ]
     },
     {
       "name": "AWS CLI",
@@ -390,7 +453,11 @@
         "preview": 4,
         "contextSize": 2
       },
-      "tags": ["official", "cloud", "enterprise"]
+      "tags": [
+        "official",
+        "cloud",
+        "enterprise"
+      ]
     },
     {
       "name": "Cloudflare Wrangler",
@@ -412,7 +479,11 @@
         "preview": 4,
         "contextSize": 3
       },
-      "tags": ["official", "cloud", "serverless"]
+      "tags": [
+        "official",
+        "cloud",
+        "serverless"
+      ]
     },
     {
       "name": "Docker CLI",
@@ -434,7 +505,11 @@
         "preview": 3,
         "contextSize": 2
       },
-      "tags": ["classic", "container", "essential"]
+      "tags": [
+        "classic",
+        "container",
+        "essential"
+      ]
     },
     {
       "name": "Supabase CLI",
@@ -456,7 +531,11 @@
         "preview": 3,
         "contextSize": 3
       },
-      "tags": ["official", "database", "backend"]
+      "tags": [
+        "official",
+        "database",
+        "backend"
+      ]
     },
     {
       "name": "Prisma CLI",
@@ -478,7 +557,11 @@
         "preview": 4,
         "contextSize": 3
       },
-      "tags": ["official", "database", "orm"]
+      "tags": [
+        "official",
+        "database",
+        "orm"
+      ]
     },
     {
       "name": "Resend CLI",
@@ -500,7 +583,10 @@
         "preview": 2,
         "contextSize": 4
       },
-      "tags": ["official", "email"]
+      "tags": [
+        "official",
+        "email"
+      ]
     },
     {
       "name": "Replicate CLI",
@@ -522,7 +608,11 @@
         "preview": 2,
         "contextSize": 3
       },
-      "tags": ["official", "ai", "models"]
+      "tags": [
+        "official",
+        "ai",
+        "models"
+      ]
     },
     {
       "name": "Turborepo CLI",
@@ -544,7 +634,11 @@
         "preview": 4,
         "contextSize": 3
       },
-      "tags": ["official", "build", "monorepo"]
+      "tags": [
+        "official",
+        "build",
+        "monorepo"
+      ]
     },
     {
       "name": "rg (ripgrep)",
@@ -566,7 +660,12 @@
         "preview": 2,
         "contextSize": 3
       },
-      "tags": ["classic", "search", "essential", "open-source"]
+      "tags": [
+        "classic",
+        "search",
+        "essential",
+        "open-source"
+      ]
     },
     {
       "name": "Notion CLI (unofficial)",
@@ -588,7 +687,10 @@
         "preview": 1,
         "contextSize": 3
       },
-      "tags": ["community", "knowledge-base"]
+      "tags": [
+        "community",
+        "knowledge-base"
+      ]
     },
     {
       "name": "Linear CLI",
@@ -610,7 +712,11 @@
         "preview": 2,
         "contextSize": 4
       },
-      "tags": ["official", "project-management", "mcp"]
+      "tags": [
+        "official",
+        "project-management",
+        "mcp"
+      ]
     },
     {
       "name": "Fly.io CLI (flyctl)",
@@ -632,7 +738,11 @@
         "preview": 4,
         "contextSize": 3
       },
-      "tags": ["official", "deploy", "edge"]
+      "tags": [
+        "official",
+        "deploy",
+        "edge"
+      ]
     },
     {
       "name": "Deno CLI",
@@ -654,7 +764,11 @@
         "preview": 3,
         "contextSize": 3
       },
-      "tags": ["official", "runtime", "typescript"]
+      "tags": [
+        "official",
+        "runtime",
+        "typescript"
+      ]
     },
     {
       "name": "即梦 Jimeng CLI",
@@ -676,7 +790,11 @@
         "preview": 2,
         "contextSize": 4
       },
-      "tags": ["official", "image-gen", "chinese"]
+      "tags": [
+        "official",
+        "image-gen",
+        "chinese"
+      ]
     },
     {
       "name": "Warp CLI",
@@ -698,7 +816,11 @@
         "preview": 2,
         "contextSize": 3
       },
-      "tags": ["official", "terminal", "ai"]
+      "tags": [
+        "official",
+        "terminal",
+        "ai"
+      ]
     },
     {
       "name": "Mintlify CLI",
@@ -720,7 +842,11 @@
         "preview": 4,
         "contextSize": 3
       },
-      "tags": ["official", "docs", "ai"]
+      "tags": [
+        "official",
+        "docs",
+        "ai"
+      ]
     },
     {
       "name": "钉钉 DingTalk CLI",
@@ -742,7 +868,13 @@
         "preview": 4,
         "contextSize": 4
       },
-      "tags": ["official", "enterprise", "mcp", "skills", "chinese"]
+      "tags": [
+        "official",
+        "enterprise",
+        "mcp",
+        "skills",
+        "chinese"
+      ]
     },
     {
       "name": "企业微信 WeCom CLI",
@@ -764,7 +896,12 @@
         "preview": 2,
         "contextSize": 4
       },
-      "tags": ["official", "enterprise", "mcp", "chinese"]
+      "tags": [
+        "official",
+        "enterprise",
+        "mcp",
+        "chinese"
+      ]
     },
     {
       "name": "Slack CLI",
@@ -786,7 +923,12 @@
         "preview": 4,
         "contextSize": 3
       },
-      "tags": ["official", "communication", "mcp", "skills"]
+      "tags": [
+        "official",
+        "communication",
+        "mcp",
+        "skills"
+      ]
     },
     {
       "name": "Gemini CLI",
@@ -808,7 +950,13 @@
         "preview": 4,
         "contextSize": 4
       },
-      "tags": ["official", "ai", "coding", "mcp", "skills"]
+      "tags": [
+        "official",
+        "ai",
+        "coding",
+        "mcp",
+        "skills"
+      ]
     },
     {
       "name": "OpenAI Codex CLI",
@@ -830,7 +978,12 @@
         "preview": 5,
         "contextSize": 4
       },
-      "tags": ["official", "ai", "coding", "mcp"]
+      "tags": [
+        "official",
+        "ai",
+        "coding",
+        "mcp"
+      ]
     },
     {
       "name": "OpenCLI",
@@ -852,7 +1005,12 @@
         "preview": 3,
         "contextSize": 4
       },
-      "tags": ["open-source", "universal", "agent-md", "chinese"]
+      "tags": [
+        "open-source",
+        "universal",
+        "agent-md",
+        "chinese"
+      ]
     },
     {
       "name": "MCP CLI",
@@ -874,7 +1032,11 @@
         "preview": 3,
         "contextSize": 5
       },
-      "tags": ["open-source", "mcp", "discovery"]
+      "tags": [
+        "open-source",
+        "mcp",
+        "discovery"
+      ]
     },
     {
       "name": "Smithery CLI",
@@ -896,7 +1058,12 @@
         "preview": 3,
         "contextSize": 4
       },
-      "tags": ["open-source", "mcp", "skills", "registry"]
+      "tags": [
+        "open-source",
+        "mcp",
+        "skills",
+        "registry"
+      ]
     },
     {
       "name": "mcpx",
@@ -918,7 +1085,11 @@
         "preview": 3,
         "contextSize": 4
       },
-      "tags": ["open-source", "mcp", "composable"]
+      "tags": [
+        "open-source",
+        "mcp",
+        "composable"
+      ]
     },
     {
       "name": "AgentX",
@@ -940,7 +1111,12 @@
         "preview": 3,
         "contextSize": 4
       },
-      "tags": ["open-source", "cross-platform", "mcp", "skills"]
+      "tags": [
+        "open-source",
+        "cross-platform",
+        "mcp",
+        "skills"
+      ]
     },
     {
       "name": "agent-browser",
@@ -962,7 +1138,12 @@
         "preview": 3,
         "contextSize": 3
       },
-      "tags": ["official", "browser", "automation", "rust"]
+      "tags": [
+        "official",
+        "browser",
+        "automation",
+        "rust"
+      ]
     },
     {
       "name": "Shopify CLI",
@@ -984,7 +1165,11 @@
         "preview": 4,
         "contextSize": 3
       },
-      "tags": ["official", "ecommerce", "mcp"]
+      "tags": [
+        "official",
+        "ecommerce",
+        "mcp"
+      ]
     },
     {
       "name": "Netlify CLI",
@@ -1006,7 +1191,11 @@
         "preview": 4,
         "contextSize": 3
       },
-      "tags": ["official", "deploy", "ai-agent-commands"]
+      "tags": [
+        "official",
+        "deploy",
+        "ai-agent-commands"
+      ]
     },
     {
       "name": "figma-use",
@@ -1028,7 +1217,11 @@
         "preview": 3,
         "contextSize": 3
       },
-      "tags": ["community", "design", "figma"]
+      "tags": [
+        "community",
+        "design",
+        "figma"
+      ]
     },
     {
       "name": "Axe",
@@ -1050,7 +1243,40 @@
         "preview": 2,
         "contextSize": 4
       },
-      "tags": ["open-source", "agent-runner", "composable"]
+      "tags": [
+        "open-source",
+        "agent-runner",
+        "composable"
+      ]
+    },
+    {
+      "name": "NotFair",
+      "id": "notfair",
+      "category": "ai-ml",
+      "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads (~2.9k stars). Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.",
+      "install": "npm i -g @anthropic-ai/claude-code",
+      "repo": "https://github.com/nowork-studio/NotFair",
+      "website": "https://github.com/nowork-studio/NotFair",
+      "hasSkills": true,
+      "hasMCP": true,
+      "hasJSON": true,
+      "hasNonInteractive": true,
+      "hasDryRun": false,
+      "score": {
+        "aiDesign": 5,
+        "structuredOutput": 4,
+        "selfDiscovery": 4,
+        "preview": 2,
+        "contextSize": 4
+      },
+      "tags": [
+        "open-source",
+        "claude-code",
+        "skills",
+        "seo",
+        "marketing",
+        "mcp"
+      ]
     }
   ]
 }

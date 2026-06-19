@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/tools-45-blue" alt="Tools">
+  <img src="https://img.shields.io/badge/tools-46-blue" alt="Tools">
   <img src="https://img.shields.io/badge/AI%20scored-5%20dimensions-blueviolet" alt="AI Scored">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
@@ -85,7 +85,7 @@ We scanned hundreds of CLI tools across npm, brew, and pip — **45** made the c
 |----------|:-----:|----------|:-----:|
 | [💼 Office & Collaboration](#-office--collaboration) | 6 | [☁️ Cloud / DevOps](#-cloud--devops) | 6 |
 | [🎬 Media Processing](#-media-processing) | 3 | [💳 Payments](#-payments) | 1 |
-| [🤖 AI / ML Tools](#-ai--ml-tools) | 8 | [🎵 Lifestyle](#-lifestyle) | 1 |
+| [🤖 AI / ML Tools](#-ai--ml-tools) | 9 | [🎵 Lifestyle](#-lifestyle) | 1 |
 | [💻 Development](#-development) | 11 | [🔍 Data / Search](#-data--search) | 2 |
 | [🧩 Agent Infrastructure](#-agent-infrastructure) | 6 | [🛒 E-commerce](#-e-commerce) | 1 |
 
@@ -134,6 +134,7 @@ LLMs, voice synthesis, image generation — CLI entry points for AI services.
 | **[OpenAI CLI](https://platform.openai.com)** | GPT/DALL-E/Whisper access | `pip install openai` | ⭐⭐⭐ | ❌ | ❌ |
 | **[Replicate CLI](https://github.com/replicate/replicate-python)** | Run open-source models in one command | `pip install replicate` | ⭐⭐⭐ | ❌ | ❌ |
 | **[Axe](https://github.com/jrswab/axe)** | Lightweight AI Agent runner, TOML-defined, Unix-style composable | `go install github.com/jrswab/axe@latest` | ⭐⭐⭐⭐ | ❌ | ✅ |
+| **[NotFair](https://github.com/nowork-studio/NotFair)** | Open-source Claude Code skills for [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | `npm i -g @anthropic-ai/claude-code` | ⭐⭐⭐⭐ | ✅ | ✅ |
 
 **[`^ back to top ^`](#table-of-contents)**
 
