@@ -789,6 +789,28 @@
       "tags": ["official", "communication", "mcp", "skills"]
     },
     {
+      "name": "macos-cli",
+      "id": "macos-cli",
+      "category": "office",
+      "description": "macOS 命令行工具（Swift 构建，单个签名二进制），让 AI Agent 操作日历、通讯录、邮件、信息、备忘录、提醒事项、Safari、窗口、截图和辅助功能树；返回数据的命令都支持 --json，退出码稳定，doctor --for-agent 不弹窗即可报告权限",
+      "install": "brew install manuaudio/tap/macos-cli",
+      "repo": "https://github.com/manuaudio/macos-cli",
+      "website": "https://github.com/manuaudio/macos-cli",
+      "hasSkills": true,
+      "hasMCP": false,
+      "hasJSON": true,
+      "hasNonInteractive": true,
+      "hasDryRun": false,
+      "score": {
+        "aiDesign": 5,
+        "structuredOutput": 5,
+        "selfDiscovery": 5,
+        "preview": 2,
+        "contextSize": 4
+      },
+      "tags": ["macos", "skills", "calendar", "mail"]
+    },
+    {
       "name": "Gemini CLI",
       "id": "gemini-cli",
       "category": "ai-ml",
