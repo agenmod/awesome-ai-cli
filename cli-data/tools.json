@@ -679,6 +679,28 @@
       "tags": ["official", "image-gen", "chinese"]
     },
     {
+      "name": "Kling AI CLI",
+      "id": "kling-ai-cli",
+      "category": "ai-ml",
+      "description": "Official Kling AI CLI for image and video generation through the region-matched hosted MCP, including reusable Elements and motion control; JSON output and non-interactive agent workflows.",
+      "install": "Global: npm install -g @klingai/cli-global · China: npm install -g @klingai/cli-cn",
+      "repo": "https://www.npmjs.com/package/@klingai/cli-global",
+      "website": "https://kling.ai/app/mcp/guide",
+      "hasSkills": true,
+      "hasMCP": true,
+      "hasJSON": true,
+      "hasNonInteractive": true,
+      "hasDryRun": false,
+      "score": {
+        "aiDesign": 5,
+        "structuredOutput": 5,
+        "selfDiscovery": 5,
+        "preview": 1,
+        "contextSize": 4
+      },
+      "tags": ["official", "ai", "image-gen", "video-gen", "mcp", "skills", "npm"]
+    },
+    {
       "name": "Warp CLI",
       "id": "warp-cli",
       "category": "dev",
